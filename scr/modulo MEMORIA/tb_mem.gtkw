@@ -1,0 +1,44 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Mon Jul  4 18:50:42 2022
+[*]
+[dumpfile] "/home/sator/UNIOESTE/SD/neander/projeto/modulo MEMORIA/tb_mem.ghw"
+[dumpfile_mtime] "Mon Jul  4 18:46:55 2022"
+[dumpfile_size] 15175
+[savefile] "/home/sator/UNIOESTE/SD/neander/projeto/modulo MEMORIA/tb_mem.gtkw"
+[timestart] 0
+[size] 1300 704
+[pos] -1 -1
+*-25.641851 119100000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.tb_mem.
+[treeopen] top.tb_mem.u_mem.
+[treeopen] top.tb_mem.u_mem.u_mem.
+[treeopen] top.tb_mem.u_mem.u_mem.ram.
+[sst_width] 245
+[signals_width] 324
+[sst_expanded] 1
+[sst_vpaned_height] 177
+@24
+top.tb_mem.sclk
+top.tb_mem.scl
+#{top.tb_mem.sinterface_barramento[7:0]} top.tb_mem.sinterface_barramento[7] top.tb_mem.sinterface_barramento[6] top.tb_mem.sinterface_barramento[5] top.tb_mem.sinterface_barramento[4] top.tb_mem.sinterface_barramento[3] top.tb_mem.sinterface_barramento[2] top.tb_mem.sinterface_barramento[1] top.tb_mem.sinterface_barramento[0]
+top.tb_mem.srdm_nrw
+top.tb_mem.smem_nrw
+top.tb_mem.snbarr_pc
+top.tb_mem.srem_nrw
+#{top.tb_mem.send_barr[7:0]} top.tb_mem.send_barr[7] top.tb_mem.send_barr[6] top.tb_mem.send_barr[5] top.tb_mem.send_barr[4] top.tb_mem.send_barr[3] top.tb_mem.send_barr[2] top.tb_mem.send_barr[1] top.tb_mem.send_barr[0]
+@204
+-
+@24
+#{top.tb_mem.u_mem.s_mux2rem[7:0]} top.tb_mem.u_mem.s_mux2rem[7] top.tb_mem.u_mem.s_mux2rem[6] top.tb_mem.u_mem.s_mux2rem[5] top.tb_mem.u_mem.s_mux2rem[4] top.tb_mem.u_mem.s_mux2rem[3] top.tb_mem.u_mem.s_mux2rem[2] top.tb_mem.u_mem.s_mux2rem[1] top.tb_mem.u_mem.s_mux2rem[0]
+#{top.tb_mem.u_mem.s_rem2mem[7:0]} top.tb_mem.u_mem.s_rem2mem[7] top.tb_mem.u_mem.s_rem2mem[6] top.tb_mem.u_mem.s_rem2mem[5] top.tb_mem.u_mem.s_rem2mem[4] top.tb_mem.u_mem.s_rem2mem[3] top.tb_mem.u_mem.s_rem2mem[2] top.tb_mem.u_mem.s_rem2mem[1] top.tb_mem.u_mem.s_rem2mem[0]
+#{top.tb_mem.u_mem.s_mem2rdm[7:0]} top.tb_mem.u_mem.s_mem2rdm[7] top.tb_mem.u_mem.s_mem2rdm[6] top.tb_mem.u_mem.s_mem2rdm[5] top.tb_mem.u_mem.s_mem2rdm[4] top.tb_mem.u_mem.s_mem2rdm[3] top.tb_mem.u_mem.s_mem2rdm[2] top.tb_mem.u_mem.s_mem2rdm[1] top.tb_mem.u_mem.s_mem2rdm[0]
+#{top.tb_mem.u_mem.s_rdm2barr[7:0]} top.tb_mem.u_mem.s_rdm2barr[7] top.tb_mem.u_mem.s_rdm2barr[6] top.tb_mem.u_mem.s_rdm2barr[5] top.tb_mem.u_mem.s_rdm2barr[4] top.tb_mem.u_mem.s_rdm2barr[3] top.tb_mem.u_mem.s_rdm2barr[2] top.tb_mem.u_mem.s_rdm2barr[1] top.tb_mem.u_mem.s_rdm2barr[0]
+@25
+#{top.tb_mem.u_mem.u_mem.ram[128][7:0]} top.tb_mem.u_mem.u_mem.ram[128][7] top.tb_mem.u_mem.u_mem.ram[128][6] top.tb_mem.u_mem.u_mem.ram[128][5] top.tb_mem.u_mem.u_mem.ram[128][4] top.tb_mem.u_mem.u_mem.ram[128][3] top.tb_mem.u_mem.u_mem.ram[128][2] top.tb_mem.u_mem.u_mem.ram[128][1] top.tb_mem.u_mem.u_mem.ram[128][0]
+@22
+#{top.tb_mem.u_mem.u_mem.ram[129][7:0]} top.tb_mem.u_mem.u_mem.ram[129][7] top.tb_mem.u_mem.u_mem.ram[129][6] top.tb_mem.u_mem.u_mem.ram[129][5] top.tb_mem.u_mem.u_mem.ram[129][4] top.tb_mem.u_mem.u_mem.ram[129][3] top.tb_mem.u_mem.u_mem.ram[129][2] top.tb_mem.u_mem.u_mem.ram[129][1] top.tb_mem.u_mem.u_mem.ram[129][0]
+#{top.tb_mem.u_mem.u_mem.ram[127][7:0]} top.tb_mem.u_mem.u_mem.ram[127][7] top.tb_mem.u_mem.u_mem.ram[127][6] top.tb_mem.u_mem.u_mem.ram[127][5] top.tb_mem.u_mem.u_mem.ram[127][4] top.tb_mem.u_mem.u_mem.ram[127][3] top.tb_mem.u_mem.u_mem.ram[127][2] top.tb_mem.u_mem.u_mem.ram[127][1] top.tb_mem.u_mem.u_mem.ram[127][0]
+[pattern_trace] 1
+[pattern_trace] 0

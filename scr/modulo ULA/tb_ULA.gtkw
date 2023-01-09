@@ -1,0 +1,30 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Sun Jun 26 23:58:41 2022
+[*]
+[dumpfile] "/home/sator/UNIOESTE/SD/neander/projeto/teste.ghw"
+[dumpfile_mtime] "Sun Jun 26 23:53:27 2022"
+[dumpfile_size] 5726
+[savefile] "/home/sator/UNIOESTE/SD/neander/projeto/tb_ULA.gtkw"
+[timestart] 0
+[size] 1300 704
+[pos] -51 -51
+*-26.498182 66300000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.tb_ula.
+[sst_width] 245
+[signals_width] 242
+[sst_expanded] 1
+[sst_vpaned_height] 177
+@28
+top.tb_ula.scl
+top.tb_ula.sclk
+top.tb_ula.sacnrw
+top.tb_ula.smemnrw
+@25
+#{top.tb_ula.sbarramento[7:0]} top.tb_ula.sbarramento[7] top.tb_ula.sbarramento[6] top.tb_ula.sbarramento[5] top.tb_ula.sbarramento[4] top.tb_ula.sbarramento[3] top.tb_ula.sbarramento[2] top.tb_ula.sbarramento[1] top.tb_ula.sbarramento[0]
+@28
+#{top.tb_ula.sula_op[2:0]} top.tb_ula.sula_op[2] top.tb_ula.sula_op[1] top.tb_ula.sula_op[0]
+#{top.tb_ula.sflags[1:0]} top.tb_ula.sflags[1] top.tb_ula.sflags[0]
+[pattern_trace] 1
+[pattern_trace] 0

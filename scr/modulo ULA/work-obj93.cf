@@ -1,0 +1,47 @@
+v 4
+file . "tb_ULA.vhdl" "1f9f2080bfc899f790c2872cdfd87395c5d5787c" "20220626235247.198":
+  entity tb_ula at 1( 0) + 0 on 1211;
+  architecture teste of tb_ula at 8( 107) + 0 on 1212;
+file . "ULA.vhdl" "7980d0251dae14f0adf972e9959c9924dab0b7dd" "20220626235247.200":
+  entity ula at 1( 0) + 0 on 1215;
+  architecture rtl of ula at 14( 320) + 0 on 1216;
+file . "mux2x8z.vhdl" "dfb71278418701737162bbf253db1ce39304ea14" "20220626235247.191":
+  entity mux2x8z at 1( 0) + 0 on 1199;
+  architecture rtl of mux2x8z at 14( 286) + 0 on 1200;
+file . "detector.vhdl" "b889105682d5c4fc7b1176528274d053015c7259" "20220626235247.186":
+  entity detector at 1( 0) + 0 on 1185;
+  architecture rtl of detector at 11( 223) + 0 on 1186;
+file . "f-adder8bits.vhdl" "c0867deabab5eacb79b2b32ab25a9b94b330500e" "20220626235247.187":
+  entity f_adder8bits at 1( 0) + 0 on 1187;
+  architecture comportamento of f_adder8bits at 20( 278) + 0 on 1188;
+file . "f-adder.vhdl" "6bd152fcc096d5e6e74ebd3619f97ada7bcac38f" "20220626235247.188":
+  entity f_adder at 1( 0) + 0 on 1189;
+  architecture comportamento of f_adder at 17( 246) + 0 on 1190;
+file . "ffjkTD.vhdl" "d4b412e6b4e0db48c84417e421e401565e2bf8dd" "20220626235247.190":
+  entity ffjk at 2( 70) + 0 on 1191;
+  architecture latch of ffjk at 14( 316) + 0 on 1192;
+  entity ffd at 72( 2349) + 0 on 1193;
+  architecture latch of ffd at 84( 2594) + 0 on 1194;
+  entity fft at 107( 3127) + 0 on 1195;
+  architecture latch of fft at 119( 3372) + 0 on 1196;
+file . "mux2x1.vhdl" "b5246d375ba266d2f12ecccd57362b736dd0b966" "20220626235247.190":
+  entity mux2x1 at 1( 0) + 0 on 1197;
+  architecture rtl of mux2x1 at 13( 203) + 0 on 1198;
+file . "mux5x8(ULA).vhdl" "f25dc77530836d9d84369512623d39fee13889a5" "20220626235247.192":
+  entity mux5x8 at 1( 0) + 0 on 1201;
+  architecture rtl of mux5x8 at 17( 415) + 0 on 1202;
+file . "ops.vhdl" "8a0ed78398f5f790a038b890f2358b2608c4d7ad" "20220626235247.193":
+  entity ops at 1( 0) + 0 on 1203;
+  architecture rtl of ops at 16( 397) + 0 on 1204;
+file . "regCarga1bit.vhdl" "bc0cda6a5878fecd25927ad9bec1c0619eb51d36" "20220626235247.194":
+  entity regcarga1bit at 1( 0) + 0 on 1205;
+  architecture rtl of regcarga1bit at 16( 293) + 0 on 1206;
+file . "regCarga2bit.vhdl" "9c652cd714fcaf3e727f78596b85108b39ac681c" "20220626235247.195":
+  entity regcarga2bit at 1( 0) + 0 on 1207;
+  architecture rtl of regcarga2bit at 16( 331) + 0 on 1208;
+file . "regCarga8bit.vhdl" "eb0102bf40fef73540b1c6bde0e6bece8a37eeb0" "20220626235247.196":
+  entity regcarga8bit at 1( 0) + 0 on 1209;
+  architecture rtl of regcarga8bit at 16( 331) + 0 on 1210;
+file . "ULA_ALU.vhdl" "e0aa36dc85eb8d22372139473655532594638149" "20220626235247.199":
+  entity ula_alu at 1( 0) + 0 on 1213;
+  architecture rtl of ula_alu at 15( 350) + 0 on 1214;
